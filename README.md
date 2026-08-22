@@ -48,7 +48,6 @@
   <img src="https://raw.githubusercontent.com/Varun-vv29/Varun-vv29/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ Setup note: this snake image needs a one-time GitHub Action. See the "snake animation setup" instructions I'll send separately.
 
 ---
 
