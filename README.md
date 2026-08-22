@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Varun-vv29">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=Frontend+Dev+%7C+Python+%7C+AI+Enthusiast;Building+InternLoom%2C+Browser+Battle+%26+more;Dubai+%F0%9F%93%8D+%7C+Grad+2029" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=Frontend+Dev+%7C+Python+%7C+AI+Enthusiast;Building+InternLoom%2C+Browser+Battle+%26+more;Bangalore+%F0%9F%93%8D+%7C+Grad+2029" alt="Typing SVG" />
   </a>
 </p>
 
